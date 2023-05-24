@@ -1,4 +1,4 @@
-<img src="https://github.com/Mohammedelkhalil/Mohammedelkhalil/blob/main/img_files/gitbanner.jpeg" width=900 height=350> 
+<img src="https://github.com/Mohammedelkhalil/Mohammedelkhalil/blob/main/img_files/gitbanner.jpeg"> 
 
 
 <h1 align="center">Hi 👋, I'm Mohammed El-Khalil</h1>
