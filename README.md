@@ -1,4 +1,6 @@
-![gitbanner]([https://github.com/Mohammedelkhalil/Mohammedelkhalil/assets/111566262/cb179c1e-5578-4a2d-951c-8c5ab6c8848d](https://github.com/Mohammedelkhalil/Mohammedelkhalil/blob/main/img_files/gitbanner.jpeg))
+![gitbanner](https://github.com/Mohammedelkhalil/Mohammedelkhalil/blob/main/img_files/gitbanner.jpeg))
+
+https://github.com/Mohammedelkhalil/Mohammedelkhalil/blob/main/img_files/gitbanner.jpeg
 
 <h1 align="center">Hi 👋, I'm Mohammed El-Khalil</h1>
 <h3 align="center">A driven Machine Learning developer from Sweden!</h3>
