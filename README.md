@@ -1,4 +1,4 @@
-![gitbanner](https://github.com/Mohammedelkhalil/Mohammedelkhalil/blob/main/img_files/gitbanner.jpeg))
+![gitbanner](https://github.com/Mohammedelkhalil/Mohammedelkhalil/blob/main/img_files/gitbanner.jpeg {width=40px height=400px})
 
 https://github.com/Mohammedelkhalil/Mohammedelkhalil/blob/main/img_files/gitbanner.jpeg
 
