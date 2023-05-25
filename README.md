@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Master thesis in Machine Intelligence**
 
 
-- 🌱 I’m currently learning **Deepen my knowledge in Machine learning development**
+- 🌱 I’m currently **deepen my knowledge in Machine learning development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohammedelkhalil?tab=repositories](https://github.com/Mohammedelkhalil?tab=repositories)
 
